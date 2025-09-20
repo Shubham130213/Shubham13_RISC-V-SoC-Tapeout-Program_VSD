@@ -84,11 +84,11 @@ yosys
 iverilog -v
 gtkwave -v
 
-![Alt Text](Images/yosys.png)
+![Alt Text](images/yosys.jpeg)
 
-![Alt Text](Images/iverilog.png)
+![Alt Text](images/iverilog.jpeg)
 
-![Alt Text](Images/gtkwave.png)
+![Alt Text](images/gtkwave.jpeg)
 
 ✅ If all versions are displayed correctly, your setup is successful.
 
